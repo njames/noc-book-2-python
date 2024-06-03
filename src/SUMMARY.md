@@ -1,3 +1,17 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Dedication](./00_dedication.md)
+- [Acknowlegements](./00_ack.md)
+- [Introduction](./00_intro.md)
+- [Randomness](./00_randomness.md)
+- [Vectors](./01_vectors.md)
+- [Forces](./02_forces.md)
+- [Oscillation](./03_oscillation.md)
+- [Particles](./04_particles.md)
+- [Steering](./05_steering.md)
+- [Libraries](./06_libraries.md)
+- [CA](./07_ca.md)
+- [Fractles](./08_fractals.md)
+- [GA](./09_ga.md)
+- [nn](./10_nn.md)
+- [GA](./11_nn_ga.md)
